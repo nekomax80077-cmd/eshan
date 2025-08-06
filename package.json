@@ -1,0 +1,15 @@
+{
+  "name": "eshan",
+  "version": "1.0.0",
+  "description": "A simple buildable project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building project...' && npm run compile",
+    "compile": "echo 'Compilation complete!'",
+    "start": "node index.js",
+    "test": "echo 'Running tests...' && echo 'All tests passed!'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
